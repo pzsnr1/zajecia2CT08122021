@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Arkadiusz Waliczek",
+        "email":"informatyka@pszczyna.edu.pl"
+    },
+    {
+        "id":2,
+        "name":"Dariusz Waliczek",
+        "email":"darek@pszczyna.edu.pl"
+    },
+    {
+        "id":3,
+        "name":"Bruchilda Waliczek",
+        "email":"bruchcia@pszczyna.edu.pl"
+    },
+    {
+        "id":4,
+        "name":"Zofia Waliczek",
+        "email":"zofijka@pszczyna.edu.pl"
+    }
+]
